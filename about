@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kirnodaya Classes</title>
+    <link rel="icon" href="image/logo.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="main-heading">Welcome to Kirnodaya classes</h1>
+    <h1 class="sub-heading">We Make Best</h1>
+
+    <div class="button-group">
+        <button class="nav-button"><a href="index.html">HOME</a></button>
+        <button class="nav-button"><a href="cources.html">COURSES</a></button>
+        <button class="nav-button highlighted-button"><a href="about.html">ABOUT</a></button>
+        <button class="nav-button"><a href="contact.html">CONTACT US</a></button>
+    </div>
+
+    <br><br><hr><hr>
+
+    <h1 class="page-title">Welcome to Kirnodaya classes</h1>
+
+    <p class="content-text">
+        Unlocking Your Potential in Maths, English, and Science at Kirnodaya classes,<br>
+        we believe that every student has the potential to excel in maths, English, and science.<br>
+        Our mission is to provide high-quality coaching that empowers students to build confidence, improve their understanding, and achieve their academic goals.<br><br>
+
+        <b>Our Coaching Services</b><br>
+        We offer personalized coaching in:<br>
+        - Maths: From basic numeracy to advanced calculus<br>
+        - English: Reading, writing, comprehension, and communication skills<br>
+        - Science: Biology, chemistry and physics<br><br>
+
+        <b>Our Vision</b><br>
+        We envision a future where every student has access to exceptional education and the skills to succeed in an ever-changing world.<br>
+        Our coaching services aim to bridge the gap between curriculum and understanding, making learning fun, engaging, and effective.<br><br>
+
+        <b>Our Expertise</b><br>
+        Our team of experienced coaches are passionate about maths, English, and science, with a deep understanding of the curriculum and learning strategies.<br>
+        We cater to students of all ages and skill levels, from primary to secondary school and beyond.<br><br>
+
+        <b>Our Coaching Philosophy</b><br>
+        We believe that:<br>
+        - Every student learns differently<br>
+        - Understanding is the key to success<br>
+        - Practice and feedback are essential<br>
+        - Learning should be enjoyable and engaging<br><br>
+
+        <b>Get in Touch</b><br>
+        Ready to unlock your potential?<br> 
+        <em>Contact us</em> today to schedule a free consultation and take the first step towards academic success.
+    </p>
+</body>
+</html>
